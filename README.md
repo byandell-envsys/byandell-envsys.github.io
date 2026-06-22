@@ -1,4 +1,4 @@
 # byandell-envsys Organization
 
-- [Python `landmapyr` package](https://byandell-envsys.github.io/landmapyr/)
+- [`landmapyr`: Land Mapping Python Package](https://byandell-envsys.github.io/landmapyr/)
 - [`byandell-envsys` GitHub Organization](https://github.com/byandell-envsys)
